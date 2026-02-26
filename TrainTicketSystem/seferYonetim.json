@@ -1,0 +1,168 @@
+{
+  "seferler" : [ {
+    "biletler" : [ {
+      "baslangicDurak" : "1",
+      "bitisDurak" : "3",
+      "sefer" : {
+        "biletler" : [ ],
+        "calisanlar" : [ {
+          "isim" : "Faruk",
+          "soyisim" : "Tekin",
+          "pozisyon" : "Yönetici ve Yönetim Personeli"
+        } ],
+        "tarih" : 1715582304113,
+        "hat" : {
+          "duraklar" : [ "1", "2", "3" ],
+          "hatIsmi" : "1"
+        },
+        "seferNo" : "123",
+        "fiyat" : 111.0
+      },
+      "koltukNo" : 18,
+      "yolcu" : null,
+      "biletDurum" : 0
+    }, {
+      "baslangicDurak" : "1",
+      "bitisDurak" : "3",
+      "sefer" : {
+        "biletler" : [ {
+          "baslangicDurak" : "1",
+          "bitisDurak" : "3",
+          "sefer" : {
+            "biletler" : [ ],
+            "calisanlar" : [ {
+              "isim" : "Faruk",
+              "soyisim" : "Tekin",
+              "pozisyon" : "Yönetici ve Yönetim Personeli"
+            } ],
+            "tarih" : 1715582304113,
+            "hat" : {
+              "duraklar" : [ "1", "2", "3" ],
+              "hatIsmi" : "1"
+            },
+            "seferNo" : "123",
+            "fiyat" : 111.0
+          },
+          "koltukNo" : 18,
+          "yolcu" : null,
+          "biletDurum" : 0
+        } ],
+        "calisanlar" : [ {
+          "isim" : "Faruk",
+          "soyisim" : "Tekin",
+          "pozisyon" : "Yönetici ve Yönetim Personeli"
+        } ],
+        "tarih" : 1715582304113,
+        "hat" : {
+          "duraklar" : [ "1", "2", "3" ],
+          "hatIsmi" : "1"
+        },
+        "seferNo" : "123",
+        "fiyat" : 111.0
+      },
+      "koltukNo" : 15,
+      "yolcu" : null,
+      "biletDurum" : 0
+    }, {
+      "baslangicDurak" : "1",
+      "bitisDurak" : "3",
+      "sefer" : {
+        "biletler" : [ {
+          "baslangicDurak" : "1",
+          "bitisDurak" : "3",
+          "sefer" : {
+            "biletler" : [ ],
+            "calisanlar" : [ {
+              "isim" : "Faruk",
+              "soyisim" : "Tekin",
+              "pozisyon" : "Yönetici ve Yönetim Personeli"
+            } ],
+            "tarih" : 1715582304113,
+            "hat" : {
+              "duraklar" : [ "1", "2", "3" ],
+              "hatIsmi" : "1"
+            },
+            "seferNo" : "123",
+            "fiyat" : 111.0
+          },
+          "koltukNo" : 18,
+          "yolcu" : null,
+          "biletDurum" : 0
+        }, {
+          "baslangicDurak" : "1",
+          "bitisDurak" : "3",
+          "sefer" : {
+            "biletler" : [ {
+              "baslangicDurak" : "1",
+              "bitisDurak" : "3",
+              "sefer" : {
+                "biletler" : [ ],
+                "calisanlar" : [ {
+                  "isim" : "Faruk",
+                  "soyisim" : "Tekin",
+                  "pozisyon" : "Yönetici ve Yönetim Personeli"
+                } ],
+                "tarih" : 1715582304113,
+                "hat" : {
+                  "duraklar" : [ "1", "2", "3" ],
+                  "hatIsmi" : "1"
+                },
+                "seferNo" : "123",
+                "fiyat" : 111.0
+              },
+              "koltukNo" : 18,
+              "yolcu" : null,
+              "biletDurum" : 0
+            } ],
+            "calisanlar" : [ {
+              "isim" : "Faruk",
+              "soyisim" : "Tekin",
+              "pozisyon" : "Yönetici ve Yönetim Personeli"
+            } ],
+            "tarih" : 1715582304113,
+            "hat" : {
+              "duraklar" : [ "1", "2", "3" ],
+              "hatIsmi" : "1"
+            },
+            "seferNo" : "123",
+            "fiyat" : 111.0
+          },
+          "koltukNo" : 15,
+          "yolcu" : null,
+          "biletDurum" : 0
+        } ],
+        "calisanlar" : [ {
+          "isim" : "Faruk",
+          "soyisim" : "Tekin",
+          "pozisyon" : "Yönetici ve Yönetim Personeli"
+        } ],
+        "tarih" : 1715582304113,
+        "hat" : {
+          "duraklar" : [ "1", "2", "3" ],
+          "hatIsmi" : "1"
+        },
+        "seferNo" : "123",
+        "fiyat" : 111.0
+      },
+      "koltukNo" : 19,
+      "yolcu" : null,
+      "biletDurum" : 0
+    } ],
+    "calisanlar" : [ {
+      "isim" : "Faruk",
+      "soyisim" : "Tekin",
+      "pozisyon" : "Yönetici ve Yönetim Personeli"
+    } ],
+    "tarih" : 1715582304113,
+    "hat" : {
+      "duraklar" : [ "1", "2", "3" ],
+      "hatIsmi" : "1"
+    },
+    "seferNo" : "123",
+    "fiyat" : 111.0
+  } ],
+  "hatlar" : [ {
+    "duraklar" : [ "1", "2", "3" ],
+    "hatIsmi" : "1"
+  } ]
+}

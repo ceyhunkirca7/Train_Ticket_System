@@ -1,0 +1,11 @@
+{
+  "calisanlar" : [ {
+    "isim" : "Faruk",
+    "soyisim" : "Tekin",
+    "pozisyon" : "Yönetici ve Yönetim Personeli"
+  }, {
+    "isim" : "Faruk1",
+    "soyisim" : "Tekin2",
+    "pozisyon" : "Makinistler"
+  } ]
+}
